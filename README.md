@@ -5,7 +5,7 @@
 <a name="english"></a>
 ## English
 
-Versa is a premium, AI-powered productivity toolkit designed to streamline modern professional workflows. From提炼 professional weekly reports to polishing business emails and generating viral social media copy, Versa transforms raw information into high-value outputs using state-of-the-art AI models.
+Versa is a premium, AI-powered productivity toolkit designed to streamline modern professional workflows. From extract professional weekly reports to polishing business emails and generating viral social media copy, Versa transforms raw information into high-value outputs using state-of-the-art AI models.
 
 ![Versa AI Preview](https://via.placeholder.com/1200x600?text=Versa+AI+Toolkit+UI+Preview) <!-- Replace with actual screenshot when available -->
 
